@@ -18,8 +18,7 @@ LIBRERIAS:
 
 
 <img width="1627" height="506" alt="image" src="https://github.com/user-attachments/assets/e59a42fa-c3c4-4542-a472-d1832cc5c174" />
-
-OPCIONALIDADES 
-
+ 
+OPCIONES DEL SISTEMAS:
 
 <img width="1054" height="103" alt="image" src="https://github.com/user-attachments/assets/460f8659-ab19-4613-b79a-1515f844b3c8" />
