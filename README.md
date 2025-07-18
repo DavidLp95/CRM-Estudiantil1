@@ -1,4 +1,4 @@
-este poroyecto es un crm destinado a simular una plataforma de estudiantes donde podras gestinar:
+Este poroyecto es un CRM destinado a simular una plataforma de estudiantes donde podras gestinar:
 👌estudiantes.
 👌calificaciones.
 👌notas. 
